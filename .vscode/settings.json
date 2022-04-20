@@ -1,0 +1,21 @@
+{
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true
+  },
+  "todo-tree.filtering.excludeGlobs": [
+    "**/node_modules",
+  ],
+  "eslint.nodePath": "node_modules/eslint",
+  "cssrem.languages": [ "html", "vue", "css", "postcss", "less", "scss", "sass", "stylus", "javascriptreact", "typescriptreact", "javascript"],
+  "cssrem.addMark": true,
+}
