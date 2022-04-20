@@ -1,6 +1,0 @@
-/packages/pagebuilder/**/*.js
-/public/sw.js
-/public/firebase-messaging-sw.js
-/public/workbox-*.js
-/**/tests/**/
-/worker/*.js
