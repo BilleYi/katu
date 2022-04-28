@@ -1,0 +1,10 @@
+<view class="message">
+<view wx:if="{{!userMessage.length}}">
+<text class="messageText">暂无消息:</text>
+</view>
+<view wx:else>
+<text class="messageText">消息列表:</text>
+<removeList wx:for="{{userMessage}}" wx:key="{{index}}" messageId="{{item}}" bindmyevent="onMyEvent"/>
+<view></view>
+</view>
+</view>

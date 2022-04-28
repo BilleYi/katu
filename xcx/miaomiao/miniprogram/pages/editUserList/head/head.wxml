@@ -1,0 +1,5 @@
+<button bindtap="handleweixin">设置微信头像</button>
+<button bindtap="handleBtn">自定义头像</button>
+  <image bindtap="handleimage" src="{{userPhoto}}"/>
+
+

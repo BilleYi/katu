@@ -1,0 +1,31 @@
+.userinfo{
+  height:200rpx;
+  border: 1px solid #cdcdcd;
+  border-left: none;
+  border-right:none ;
+  display: flex;
+  align-items: center;
+}
+.userinfo image{
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 50%;
+}
+.userinfo text{
+margin-left: 10rpx;
+}
+.userinfo button{
+  margin: 0;
+  margin-left: 10rpx;
+}
+.user-list{
+margin-top: 40rpx;
+}
+.user-listitem{
+  height: 50rpx;
+  border-bottom: 1px dashed #bfbfbf;
+  padding: 10rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

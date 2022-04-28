@@ -1,0 +1,39 @@
+.area{
+height: 100rpx;
+width: 90%;
+position: relative;
+margin: 20rpx;
+}
+.view{
+height: 100%;
+position: absolute;
+width: 80%;
+background: white;
+left: 20%;
+line-height: 100rpx;
+text-indent: 10rpx;
+z-index: 2;
+border-bottom: 1px dashed #cdcdcd;
+}
+image{
+  border-radius: 50%;
+  width: 20%;
+  height: 100rpx;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 1;
+}
+.delete{
+  position: absolute;
+  right: 0;
+  top: 0;
+  text-align: center;
+  color: white;
+  background: red;
+  width: 20%;
+  height: 100rpx;
+  z-index: 1;
+  line-height: 100rpx;
+}
+

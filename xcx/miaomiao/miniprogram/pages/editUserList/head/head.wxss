@@ -1,0 +1,10 @@
+
+image{
+  width: 300rpx;
+  height: 300rpx;
+  border-radius: 50%;
+  overflow: hidden;
+  display: block;
+margin:0 auto;
+margin-top: 50rpx;
+}

@@ -1,0 +1,3 @@
+<button bindtap="handleweixinBtn">使用微信昵称</button>
+<button bindtap="handleBtn">自定义昵称</button>
+<input type="text" bindinput="handleName" value="{{nickName}}" />

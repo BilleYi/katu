@@ -1,0 +1,2 @@
+<button bindtap="handleBtn">编辑手机号码</button>
+<input type="nummber" bindinput="handleNumber" value="{{phoneNumber}}"/>

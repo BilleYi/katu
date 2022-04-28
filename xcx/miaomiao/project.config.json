@@ -1,0 +1,144 @@
+{
+  "description": "项目配置文件",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "preloadBackgroundData": false,
+    "minified": true,
+    "newFeature": true,
+    "coverView": true,
+    "nodeModules": false,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "uglifyFileName": false,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "compileHotReLoad": false,
+    "useMultiFrameRuntime": false,
+    "useApiHook": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "enableEngineNative": false,
+    "bundle": false,
+    "useIsolateContext": true,
+    "useCompilerModule": true,
+    "userConfirmedUseCompilerModuleSwitch": false,
+    "userConfirmedBundleSwitch": false,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": true
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.16.0",
+  "appid": "wxf411c096229e221e",
+  "projectname": "miniprogram-1",
+  "miniprogramRoot": "miniprogram/",
+  "cloudfunctionRoot": "cloudfunctions/",
+  "cloudfunctionTemplateRoot": "cloudfunctionTemplate",
+  "watchOptions": {
+    "ignore": []
+  },
+  "debugOptions": {
+    "hidedInDevtools": []
+  },
+  "scripts": {},
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "id": -1,
+          "name": "db guide",
+          "pathName": "pages/databaseGuide/databaseGuide",
+          "query": ""
+        },
+        {
+          "name": "pages/user/user",
+          "pathName": "pages/user/user",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/editUserList/editUserList",
+          "pathName": "pages/editUserList/editUserList",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/editUserList/signature/signature",
+          "pathName": "pages/editUserList/signature/signature",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/editUserList/phone/phone",
+          "pathName": "pages/editUserList/phone/phone",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/editUserList/weixin/weixin",
+          "pathName": "pages/editUserList/weixin/weixin",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/editUserList/name/name",
+          "pathName": "pages/editUserList/name/name",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/editUserList/head/head",
+          "pathName": "pages/editUserList/head/head",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/detail/detail",
+          "pathName": "pages/detail/detail",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/editUserList/head/head",
+          "pathName": "pages/editUserList/head/head",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/index/index",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/message/message",
+          "pathName": "pages/message/message",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
